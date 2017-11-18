@@ -7,4 +7,3 @@ ali
 Adel
 Nasser
 Ibrahim
-ibrahimfaragallah
